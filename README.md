@@ -14,8 +14,8 @@ https://www.kaggle.com/tonymathieux/eda-and-groups-of-variants-in-training-datas
 
 ## Objectif
 
-Les enzymes sont des substances organiques qui catalyse des réactions biochimiques.
-Ce sont des protéines, c'est-à-dire de grosses molécules constituées d'une suite 
+Les enzymes sont des substances organiques qui catalysent des réactions biochimiques.
+Ce sont des protéines, c'est-à-dire des molécules constituées d'une suite 
 d'acides aminés.
 
 Le but est de prédire la température à laquelle des enzymes vont se dégrader.
